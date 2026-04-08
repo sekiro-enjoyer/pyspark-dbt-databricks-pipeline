@@ -218,16 +218,4 @@ pyspark-dbt-project/
 
 ---
 
-## 🤝 Contact / Author
 
-**Fred Kibutu (KibutuJr)** — Project Owner & Implementer
-
-* 💼 **GitHub:** [KibutuJr](https://github.com/KibutuJr)
-*  [🌐 **Portfolio:**](https://kibutujr.vercel.app/)
-*  [💬 **LinkedIn:**](https://www.linkedin.com/in/fred-kibutu/)
-*  [📧 **Email:**](mailto:kibutujr@gmail.com)
-* 🗂️ **Repository:** [pyspark-dbt-project](https://github.com/KibutuJr/pyspark-dbt-project.git)
-
----
-
-> ⚡ *This repository serves as a real-world blueprint for building scalable, maintainable, and business-driven data pipelines using PySpark, Databricks, and dbt Cloud.*
